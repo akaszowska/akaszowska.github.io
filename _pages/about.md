@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I like potatoes"
+title: "PAGE TITLE GOES HERE"
 author_profile: true
 redirect_from: 
   - /about/
