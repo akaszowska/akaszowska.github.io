@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Aleksandra Kaszowska"
   pronouns         : # example: "she/her"  
-  bio              : # short bio for the left-hand column, can use <br> to make spaces
+  bio              : " " # short bio for the left-hand column, can use <br> to make spaces
   location         : "Denmark"
   employer         : # employer
   uri              : # URL
