@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Aleksandra Kaszowska"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Short biography <br> for the left-hand sidebar"
   location         : "Denmark"
   employer         : # employer
   uri              : # URL
