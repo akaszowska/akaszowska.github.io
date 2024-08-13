@@ -17,6 +17,8 @@ main:
     
 #  - title: "CV"
 #    url: /cv/
+  - title: "Research Methods"
+    url: /research_methods/
 
   - title: "Skills"
     url: /skills/
