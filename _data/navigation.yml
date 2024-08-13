@@ -1,5 +1,15 @@
 # main links links
 main:
+
+  - title: "Research Methods"
+    url: /research_methods/
+
+  - title: "Skills"
+    url: /skills/
+    
+  - title: "Guide"
+    url: /markdown/
+
 #  - title: "Publications"
 #    url: /publications/
 
@@ -17,11 +27,3 @@ main:
     
 #  - title: "CV"
 #    url: /cv/
-  - title: "Research Methods"
-    url: /research_methods/
-
-  - title: "Skills"
-    url: /skills/
-    
-  - title: "Guide"
-    url: /markdown/
