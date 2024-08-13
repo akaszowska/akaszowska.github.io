@@ -17,16 +17,24 @@ My work and research
 
 This website
 ======
-(repository of old teaching materials and links to current talks, purpose...)
+This is a repository of (slightly edited) teaching materials that I've developed over the years as a university lecturer. They span presentations and notes from content-heavy lectures, case studies, ideas for projects and practical exercises, and materials from skills development workshops. 
 
-**skills**
+Please note: this website is under construction, I upload new materials as I edit them. 
 
-blah blah
+Whether you're a teacher looking for new ideas, a student wanting to dig deeper into a topic, or a professional in need of a refresher or a new perspective for your projects, I hope you'll find something useful here. 
 
-**research methods**
+**Applied Cognitive Science**
+(currently empty)
 
-blah blah
+**Data Analytics & AI***
+(currently empty)
 
-**other categories** 
+**Programming***
+* full course: Introduction to Python Programming
+  * lecture notes, reference sheets, exercises
 
-blah blah
+**Research Methods**
+(currently empty)
+
+**Skills**
+(currently empty)
