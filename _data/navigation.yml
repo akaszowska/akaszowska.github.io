@@ -17,6 +17,9 @@ main:
     
 #  - title: "CV"
 #    url: /cv/
+
+  - title: "skills & research methods"
+    url: /skills/
     
   - title: "Guide"
     url: /markdown/
