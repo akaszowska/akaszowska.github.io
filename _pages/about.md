@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This website
+Teaching Materials Repository
 ======
-This is a repository of (slightly edited) teaching materials that I've developed over the years as a university lecturer. They span presentations and notes from content-heavy lectures, case studies, ideas for projects and practical exercises, and materials from skills development workshops. Whether you're a teacher looking for new ideas, a student wanting to dig deeper into a topic, or a professional in need of a refresher or a new perspective for your projects, I hope you'll find something interesting here. 
+This website is a repository of (slightly edited) teaching materials that I've developed over the years as a university lecturer. They span presentations and notes from content-heavy lectures, case studies, ideas for projects and practical exercises, and materials from skills development workshops. Whether you're a teacher looking for new ideas, a student wanting to dig deeper into a topic, or a professional in need of a refresher or a new perspective for your projects, I hope you'll find something interesting here. 
 
 _Please note: this website is under construction, I upload new materials as I edit them._
 
