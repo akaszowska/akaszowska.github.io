@@ -17,7 +17,7 @@ _Please note: this website is under construction, I upload new materials as I ed
 
 My work and research
 ======
-I worked on developing and assessing learning interventions, formulating new research approaches to studying complex problem solving, designing remote communication platforms, and various ways of optimizing user performance during both repetitive and fast-paced tasks. If you're interested in having a chat about my work, please reach out via [email](mailto:akaszowska@proton.me) or [LinkedIn](https://www.linkedin.com/in/akaszowska/) - I'd love to have a virtual cup of coffee! 
+I worked on developing and assessing learning interventions, formulating new research approaches to studying complex problem solving, designing remote communication platforms, and various ways of optimizing user performance during tasks ranging from repetitive to requiring quick and complex decisions. If you're interested in having a chat about my work, please reach out via [email](mailto:akaszowska@proton.me) or [LinkedIn](https://www.linkedin.com/in/akaszowska/) - I'd love to have a virtual cup of coffee! 
 
 Broadly speaking, I find different ways of supporting people through a variety of tasks and optimizing their performance. I do this in two ways: through training and through product development. 
 * In _training_, I focus on building the user's skills, knowledge, and confidence to approach tasks and develop the expertise necessary for specialized performance. I take into account individual differences and other evidence-based learning strategies to create targeted programs and interventions.
