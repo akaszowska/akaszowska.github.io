@@ -1,5 +1,5 @@
 ---
-title: "skills"
+title: "useful skills"
 permalink: /skills/
 author_profile: true
 redirect_from:
