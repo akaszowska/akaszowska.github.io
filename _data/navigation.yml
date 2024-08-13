@@ -1,6 +1,15 @@
 # main links links
 main:
 
+  - title: "Applied Cognitive Science"
+    url: /applied_cognitive_science/
+
+  - title: "Data Analytics & AI"
+    url: /data_analytics/
+
+  - title: "Programming"
+    url: /programming/
+
   - title: "Research Methods"
     url: /research_methods/
 
