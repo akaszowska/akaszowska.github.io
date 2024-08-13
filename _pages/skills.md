@@ -7,5 +7,5 @@ redirect_from:
   - /skills.html
 ---
 
-## potato
+## under construction
 
