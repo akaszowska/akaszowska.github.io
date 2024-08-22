@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Applied cognitive science"
 permalink: /applied_cognitive_science/
 author_profile: true
 redirect_from:
