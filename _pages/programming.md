@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Programming & AI"
 permalink: /programming/
 author_profile: true
 redirect_from:
