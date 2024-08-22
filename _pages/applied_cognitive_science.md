@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 ## reading companion to Don Norman's _the Design of Everyday Things_
-[download slides](https://akaszowska.github.io/files/DesignOfEverydayThings_companion.pdf) [download notes](https://akaszowska.github.io/files/DesignOfEverydayThings_companion_notes.pdf)
+download [slides](https://akaszowska.github.io/files/DesignOfEverydayThings_companion.pdf) and [notes](https://akaszowska.github.io/files/DesignOfEverydayThings_companion_notes.pdf)
 
