@@ -1,5 +1,5 @@
 ---
-title: "applied cognitive science"
+title: " "
 permalink: /applied_cognitive_science/
 author_profile: true
 redirect_from:
@@ -7,5 +7,6 @@ redirect_from:
   - /applied_cognitive_science.html
 ---
 
-## under construction
+## reading companion to Don Norman's _the Design of Everyday Things_
+[download slides](https://akaszowska.github.io/files/DesignOfEverydayThings_companion.pdf) [download notes](https://akaszowska.github.io/files/DesignOfEverydayThings_companion_notes.pdf)
 
