@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Research methods"
 permalink: /research_methods/
 author_profile: true
 redirect_from:
