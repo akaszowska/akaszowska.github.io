@@ -7,6 +7,11 @@ redirect_from:
   - /applied_cognitive_science.html
 ---
 
+## emotion and motivation ##
+download **[slides](https://akaszowska.github.io/files/EmotionMotivation.pdf)** and **[notes](https://akaszowska.github.io/files/EmotionMotivation_notes.pdf)**
+Emotional design, definitions (emotion, mood, feeling, affect), appraisal, misattribution of arousal, categorical and dimensional models of emotion, role of emotion in thinking and making decisions, utilitarian and hedonic value, valence and micro-valences, mere exposure effect, hedonic adaptation, hedonic treadmill, motivation, motivated cognition, affect detection and modeling, affective computing and interfaces. 
+
+
 ## reading companion to Don Norman's _the Design of Everyday Things_
 download **[slides](https://akaszowska.github.io/files/DesignOfEverydayThings_companion.pdf)** and **[notes](https://akaszowska.github.io/files/DesignOfEverydayThings_companion_notes.pdf)**
 
