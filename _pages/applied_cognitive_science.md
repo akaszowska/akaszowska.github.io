@@ -6,6 +6,11 @@ redirect_from:
   - /applied_cognitive_science
   - /applied_cognitive_science.html
 ---
+## attitudes ##
+download **[slides](https://akaszowska.github.io/files/Attitudes.pdf)**
+
+Very basic introduction: definition, how are attitudes organized, IAT, balance theory of attitude change, considerations for design.
+
 
 ## emotion and motivation ##
 download **[slides](https://akaszowska.github.io/files/EmotionMotivation.pdf)** and **[notes](https://akaszowska.github.io/files/EmotionMotivation_notes.pdf)**
