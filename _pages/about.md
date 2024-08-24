@@ -13,7 +13,7 @@ This website is a repository of (slightly edited) teaching materials that I've d
 
 Whether you're a teacher looking for new ideas, a student wanting to dig deeper into a topic, or a professional in need of a refresher or a new perspective for your projects, I hope you'll find something interesting here. 
 
-_Please note: this website is under construction, I upload new materials as I edit them._
+_Please note: this website is under construction, I upload new materials as I edit them. All content on this page has been developed without use of generative AI._
 
 My work and research
 ======
