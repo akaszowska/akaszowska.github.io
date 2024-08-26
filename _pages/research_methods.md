@@ -14,4 +14,5 @@ A primer on formulating and framing effective questions that generate actionable
 
 ## interpreting quantitative data ##
 download **[slides](https://akaszowska.github.io/files/InterpretingData.pdf)** and **[notes](https://akaszowska.github.io/files/InterpretingData_notes.pdf)**
+
 Using an experimental study of the testing effect, the deck summarizes experiemtal methods, explains how to interpret graphs, and discusses the importance of understanding data collection methods before drawing conclusions and interpreting main findings. 
