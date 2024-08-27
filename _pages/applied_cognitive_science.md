@@ -11,6 +11,10 @@ download **[slides](https://akaszowska.github.io/files/Attitudes.pdf)**
 
 Very basic introduction: definition, how are attitudes organized, IAT, balance theory of attitude change, considerations for design.
 
+## decision making ##
+download **[slides](https://akaszowska.github.io/files/DecisionMaking.pdf)** and **[notes](https://akaszowska.github.io/files/DecisionMaking_notes.pdf)**
+
+Expertise in decision making, satisficing, traps (meta-cognition, planning fallacy, overconfidence, illusion of objectivity, confirmation bias), nudging (defaults, self-nudging), rational decision making (expected value, expected utility), information processing theories (query theory, endowment effect), improving decision making through design.
 
 ## emotion and motivation ##
 download **[slides](https://akaszowska.github.io/files/EmotionMotivation.pdf)** and **[notes](https://akaszowska.github.io/files/EmotionMotivation_notes.pdf)**
