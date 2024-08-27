@@ -9,7 +9,7 @@ redirect_from:
 
 Teaching Materials Repository
 ======
-This website is a repository of (slightly edited) teaching materials that I've developed over the years as a university lecturer. They span fields of applied cognitive science, usability and user experience, human factors engineering, programming, data analytics & AI, human participants research, and general "soft" skills. You can access presentations and notes from content-heavy lectures, case studies, ideas for projects and practical exercises, and materials from workshops. 
+This website is a repository of teaching materials that I've developed over the years as a university lecturer. They span fields of applied cognitive science, usability and user experience, human factors engineering, programming, data analytics & AI, human participants research, and general "soft" skills. You can access presentations and notes from content-heavy lectures, reading guides, case studies, ideas for projects and practical exercises, and materials from workshops. 
 
 Whether you're a teacher looking for new ideas, a student wanting to dig deeper into a topic, or a professional in need of a refresher or a new perspective for your projects, I hope you'll find something interesting here. 
 
@@ -17,11 +17,11 @@ _Please note: this website is under construction, I upload new materials as I ed
 
 My work and research
 ======
-I worked on developing and assessing learning interventions, formulating new research approaches to studying complex problem solving, designing remote communication platforms, and various ways of optimizing user performance during tasks ranging from repetitive to requiring quick and complex decisions. If you're interested in having a chat about my work, please reach out via [email](mailto:akaszowska@proton.me) or [LinkedIn](https://www.linkedin.com/in/akaszowska/) - I'd love to have a virtual cup of coffee! 
+I optimized interfaces and user performance during various tasks (ranging from repetitive to requiring quick and complex decisions), designed remote communication platforms, formulated new research approaches combining multimodal data, and developed and assessed learning interventions and programs. If you're interested in having a chat about my work, please reach out via [email](mailto:akaszowska@proton.me) or [LinkedIn](https://www.linkedin.com/in/akaszowska/) - I'd love to have a virtual cup of coffee! 
 
-Broadly speaking, I find different ways of supporting people through a variety of tasks and optimizing their performance. I do this in two ways: through training and through product development. 
+Broadly speaking, I optimize people's performance and support them through a wide range of tasks. I do this in two ways: through training and through product development. 
 * In _training_, I focus on building the user's skills, knowledge, and confidence to approach tasks and develop the expertise necessary for specialized performance. I take into account individual differences and other evidence-based learning strategies to create targeted programs and interventions.
-* In _product development_, I still take the user-centered approach, and I adjust products, processes, and interactions to prioritize the user's abilities, preferences, and goals. I identify bottlenecks and uncover actual needs of authentic users, and translate those into pragmatic, actionable, and sensitive design recommendations. 
+* In _product development_, I still take the user-centered approach, and I adjust and design products, processes, and interactions to prioritize the user's abilities, preferences, and goals. I identify bottlenecks and uncover actual needs of authentic users, and translate those into pragmatic, actionable, and sensitive design recommendations. 
 
 Methodologically, I use the full spectrum of qualitative and quantitative approaches: think aloud protocols, interviews, focus groups, surveys and questionnaires (including design and validation of new measurement tools), field studies, observations, experimental and behavioral research (including advanced statistical modeling of data), and even some sensory analysis and text-based analytics. I also focus heavily on eye tracking (including triangulating eye tracking data with other sources) and pupilometry, and I've done some EEG work in the past. 
 
