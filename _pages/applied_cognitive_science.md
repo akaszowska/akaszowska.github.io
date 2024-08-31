@@ -7,7 +7,7 @@ redirect_from:
   - /applied_cognitive_science.html
 ---
 ## attitudes ##
-download **[slides](https://akaszowska.github.io/files/Attitudes.pdf)**
+download **[slides](https://akaszowska.github.io/files/Attitudes.pdf){:target="_blank"}**
 
 Very basic introduction: definition, how are attitudes organized, IAT, balance theory of attitude change, considerations for design.
 
