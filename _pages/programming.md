@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## painless introduction to Python
-**[link to full course](https://github.com/akaszowska/Painless-Introduction-to-Python-course/)**
+access **[full course](https://github.com/akaszowska/Painless-Introduction-to-Python-course/){:target="_blank"}**
 
 A complete basic course for those who have no to very little experience with programming, but what to see what the fuss is all about. Structured as a combination of _lessons_ and _exercises or challenges_. [Python](https://www.python.org/) 3.5+ and [Jupyter](https://jupyter.org/) Notebook.
 
